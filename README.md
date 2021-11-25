@@ -12,7 +12,7 @@ Xavier Morin
 * Numpy
 ---
 #### Description:
-This project was our first attempt playing around with Cycle-GANs. We tried 4 different implementations of the Generator et 3 for the discriminator. 
+This project was our first attempt playing around with Cycle-GANs. We tried 4 different implementations of the generator et 3 for the discriminator. 
 
 ---
 
