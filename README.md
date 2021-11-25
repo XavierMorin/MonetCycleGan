@@ -16,8 +16,7 @@ This project was our first attempt playing around with Cycle-GANs. We tried 4 di
 
 ---
 
-Have a look at our code. <br>
-https://github.com/XavierMorin/MonetCycleGan/blob/main/432_project.ipynb
+
+[Have a look at our code.](https://github.com/XavierMorin/MonetCycleGan/blob/main/432_project.ipynb)
 <br>
-Have a look at our final report. <br>
-https://github.com/XavierMorin/MonetCycleGan/blob/main/Final%20Report.pdf
+[Have a look at our final report.]https://github.com/XavierMorin/MonetCycleGan/blob/main/Final%20Report.pdf
