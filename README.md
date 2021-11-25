@@ -8,8 +8,8 @@ Xavier Morin
 ## Preliminary Information
 
 #### Libraries Used:
-* pandas
-* numpy
+* Torch
+* Numpy
 ---
 
 Have a look at our final report.
