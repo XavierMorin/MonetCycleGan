@@ -13,7 +13,8 @@ Xavier Morin
 ---
 #### Description
 This project was our first attempt playing around with Cycle-GANs. We tried 4 different implementations of the Generator et 3 for the discriminator. 
-<br>
+
+---
 
 Have a look at our code. <br>
 https://github.com/XavierMorin/MonetCycleGan/blob/main/432_project.ipynb
